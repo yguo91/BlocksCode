@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Code Blocks CRUD App
+
+A simple full-stack application built with **Next.js** and **Prisma** that lets users:
+
+- Create code blocks
+- View all code blocks
+- View a single code block
+- Edit existing code blocks
+- Delete code blocks
+
 ## Getting Started
 
 First, run the development server:
